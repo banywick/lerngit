@@ -5,3 +5,4 @@ class Calculator:
 
 ins1 = Calculator()
 print(ins1.fn(7,3))
+'''не понял вот изменения!!!'''
